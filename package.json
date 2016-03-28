@@ -1,0 +1,22 @@
+{
+    "name": "blanda",
+    "version": "1.0.0",
+    "description": "Image blending functions",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jseidelin/blanda"
+    },
+    "scripts": {
+        "test": "mocha --reporter spec tests/spec.js"
+    },
+    "author": "Jacob Seidelin",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {
+        "async": "^2.0.0-rc.2",
+        "expect": "^1.16.0",
+        "mocha": "^2.4.5",
+        "pngjs": "^2.2.0"
+    }
+}
