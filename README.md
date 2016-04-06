@@ -3,7 +3,9 @@ blanda
 
 Image blending functions à la Photoshop's layer blend modes.
 
-[![Build Status](https://travis-ci.org/jseidelin/blanda.svg?branch=master)](https://travis-ci.org/jseidelin/blanda)
+[![Build Status](https://img.shields.io/travis/jseidelin/blanda.svg)](https://travis-ci.org/jseidelin/blanda)
+[![npm version](https://img.shields.io/npm/v/blanda.svg)](https://www.npmjs.com/package/blanda)
+
 
 ## Usage
 
